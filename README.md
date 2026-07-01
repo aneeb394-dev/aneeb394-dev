@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammad Aneeb Shahzad</h1>
-<h3 align="center">A dedicated Data Science and Analytics professional, specialized in transforming raw corporate and financial data into useful insights to drive strategic decision-making and operational efficiency. Backed by an advanced academic foundation in executing complex research methodologies, I have developed extensive expertise in advanced data analytics using Power BI, SQL, and Python. This enables me to conduct complex multivariate analysis, financial modeling, and predictive data science workflows to solve intricate business problems and support evidence-based growth.</h3>
+<h3 align="left">A dedicated Data Science and Analytics professional, specialized in transforming raw corporate and financial data into useful insights to drive strategic decision-making and operational efficiency. Backed by an advanced academic foundation in executing complex research methodologies, I have developed extensive expertise in advanced data analytics using Power BI, SQL, and Python. This enables me to conduct complex multivariate analysis, financial modeling, and predictive data science workflows to solve intricate business problems and support evidence-based growth.</h3>
 
 - 📫 How to reach me **aneebqureshi394@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19cVLACAUVlt8i9VJ-zx8d1z1Zo4StIws/view?usp=drive_link](https://drive.google.com/file/d/19cVLACAUVlt8i9VJ-zx8d1z1Zo4StIws/view?usp=drive_link)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
